@@ -21,7 +21,7 @@ class GoFood(Gojek):
         return "Pesan-antar makanan"
 
 
-Gojek = [GoRide("Buddy"), GoCar("Whiskers"), GoFood("Daisy")]
+Ojek_Online = [GoRide("Buddy"), GoCar("Whiskers"), GoFood("Daisy")]
 
-for Gojek in Ojek Online:
+for Gojek in Ojek_Online:
     print(Gojek.name + " says " + Gojek.speak())
