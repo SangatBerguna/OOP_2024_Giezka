@@ -1,5 +1,3 @@
-# prompt: buatin kode polimorfisme
-
 class Gojek:
     def __init__(self, name):
         self.name = name
